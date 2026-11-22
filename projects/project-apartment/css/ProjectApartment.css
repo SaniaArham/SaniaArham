@@ -1,0 +1,99 @@
+#cont a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 7px;
+}
+#cont ul li {
+    display: inline;
+}
+@font-face{
+    font-family: BebasNeue-regular;
+    src: url(web);
+    src: url(../fonts/BebasNeue-Regular.ttf);
+}
+#cont2{
+    font-family: BebasNeue-regular;
+    color: white;
+    padding: 10px;
+}
+
+#cont2 button{
+    padding: 15px;
+    color: white;
+    background-color: #47b49d;
+    border-radius: 10px;
+     border: 1px solid #388378  ;
+    box-shadow:  0 6px 6px  #388378;
+    font-family: Arial,  sans-serif;
+    font-weight: bold;
+    font-size: small;
+    
+}
+#cont3{
+    background-color: #a5bfc1;
+}
+#work{
+    text-align: center;
+    color: white;
+    
+}
+#Benefits{
+    background-color: #47b49d;
+    text-align: center;
+    color: white;
+}
+#people{
+    background-color: #2980b9;
+    color: white;
+    text-align: center;
+}
+#about{
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+}
+@font-face{
+    font-family: BebasNeue-regular;
+    src: url(web);
+    src: url(../fonts/BebasNeue-Regular.ttf);
+}
+#us{
+    font-family: BebasNeue-regular; 
+    font-size: 60px;
+}
+#about p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#last{
+    background-color: #1c99c0;
+    color: white;
+   
+}
+#broke{
+    font-family:BebasNeue-regular ;
+}
+#broke button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    padding: 13px;
+     box-shadow: 0 6px 6px #388378;
+     background-color: #47b49d;
+      border-radius: 10px;
+    border: 1px solid #388378  ;
+    color: white;
+}
+#list{
+    margin:0;
+    padding: 2px;
+}
+#list ul li{
+    margin-bottom: 1px;
+    margin-top: 1px;
+    line-height: 7px;
+}
+#list li a{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,87 @@
+#first{
+    background-color: #ff5959;
+}
+#menu a{
+    color: white ;
+    text-decoration: none;
+}
+#menu ul li{
+    display: inline;
+    padding: 5px;
+}
+#btn{
+    border: 3px solid #ff5959;
+    border-radius: 10px;
+}
+#bt{
+    background-color: #ff5959;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+}
+#service{
+    background-color: #e8e8e8;
+}
+#a1{
+    text-align: center;
+}
+@font-face {
+    font-family: Quicksand;
+    src: url(..//fonts/Bebas_Neue\,Quicksand/#a1);
+}
+#a1{
+    font-family: Quicksand;
+}
+#a2{
+    text-align: center;
+     
+}
+#a3{
+    font-family: Quicksand;
+    text-align: center;
+}
+#folio{
+    background-color:#ff5959 ;
+}
+#img{
+    background-image: url(..//images/hover\ layer.png);
+    color: white;
+    text-align: center;
+    font-family: Quicksand; 
+}
+#img {
+    color:white;
+}
+#staff{
+    background-color: #e8e8e8;
+}
+#sf{
+    text-align: center;
+    font-family: Quicksand;
+}
+#news{
+    background-color: #ff5959;
+    
+}
+#nw{
+    
+    color: white;
+}
+#hotel p{
+    font-family: Quicksand;
+}
+#contact{
+    background-color: #e8e8e8;
+    font-family: Quicksand;
+}
+#message{
+    color: white;
+    background-color: #ff5959;
+    font-weight: bold;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#copy{
+    background-color: #ff5959;
+}
