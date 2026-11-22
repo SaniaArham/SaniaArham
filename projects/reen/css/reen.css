@@ -1,0 +1,50 @@
+#soc{
+    color: #506a85;
+    background-color: #f5f7fa;
+}
+#soc h6{
+    display: inline;
+}
+ul li{
+    display: inline; 
+}
+#cont a{
+    display: inline;
+    text-decoration: none;
+    color: #506a85;
+    font-weight: bold;
+}
+#a1 {
+    background-image: url(../images/image.png);
+    text-align: center;
+    color: white;
+}
+#a2 {
+    color:#506a85;
+    text-align: center;
+}
+#font h1{
+    display: inline;
+}
+#font{
+    color: #506a85;
+}
+#r3{
+    background-color: #f2f5f7;
+    color: #506a85;
+    text-align: center;
+}
+#bg{
+    background-color: white;
+}
+#work{
+    text-align: center;
+    color: #4a617a;
+}
+#cf{
+    background-color: #2f4052;
+    color: white;
+}
+#git{
+    color: #8c9aa8   ;
+}

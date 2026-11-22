@@ -1,0 +1,71 @@
+#bg{
+    background-image: url(..//images/BCG.png);
+    background-size: cover;}
+#gd{
+    background-color: #fbe205;
+    border-radius:50%;
+    margin-top: 10%;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large ;
+    position: absolute;
+    margin-left:5%;
+}
+#fm{
+    background-color: #c3d7e2;
+    opacity: 0.7;
+}
+#bg1{
+    background-color: #00bff3;
+    border-radius: 50px;
+    text-align: center;
+    height: 80px;
+}
+#cont h3{
+    text-transform: uppercase     ;
+}
+#teeth{
+    background-color: #e8f0f4;
+}
+#img{
+    background-image: url(..//images/girl.png);
+}
+#gf{
+     background-color: #fbe205;
+    border-radius:50%;
+    margin-top: 50%;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large ;
+}
+#image{
+    background-image: url(..//images/blur.png);
+    background-size: cover;
+    color: white;
+    font-size:100px ;
+}
+#bg2{
+    background-color: #e8f0f4;
+}
+#list ul li{
+    text-decoration: none;
+}
+#pso{
+    margin-left: 20%;
+    color: #565252;
+    background-color: #fbe205;
+    text-align: center;
+    width: 250px;
+    padding: 14px;
+    border-radius: 20px;
+}
+#input{
+    background-color: #565252;
+    padding: 15px;
+}
